@@ -3,9 +3,6 @@
 
 ## Project 1
 
-|---|---|---|
-|Project name | Git Url | web preview|
-|To-dolist(tkinter)|[GIt repo](https://github.com/DeepaliSonii/To-dp-List-tkinter-) | [web preview To-dolist(tkinter)](https://github.com/DeepaliSonii/To-dp-List-tkinter-) |
 
 ## Project 2
 
