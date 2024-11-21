@@ -1,7 +1,7 @@
 # DeepaliSonii.github.io
 
+## Project 
 
-## Project 1
 |---|---|---|
 |Project name | Git Url | web preview|
 |To-do List(tkinter)|[GIt repo](https://github.com/DeepaliSonii/To-do-List-tkinter-) | [web preview To-do List(tkinter) ](https://github.com/DeepaliSonii/To-do-List-tkinter-) |
