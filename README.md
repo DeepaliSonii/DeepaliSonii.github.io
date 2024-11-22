@@ -1,6 +1,6 @@
 # DeepaliSonii.github.io
 
-## Project 
+## Project 1
 
 |---|---|---|
 |Project name | Git Url | web preview|
