@@ -12,6 +12,13 @@
 
 |---|---|---|
 |Project name | Git Url | web preview|
+|SimpleGuiCalculator|[GIt repo](https://github.com/DeepaliSonii/SimpleGuiCalculator) | [web preview SimpleGuiCalculator ](https://github.com/DeepaliSonii/SimpleGuiCalculator) |
+
+
+## Project 3
+
+|---|---|---|
+|Project name | Git Url | web preview|
 |Expensetracker(Pandas)|[GIt repo](https://github.com/DeepaliSonii/Expensetracker) | [web preview Expensetracker(Pandas) ](https://github.com/DeepaliSonii/Expensetracker) |
 
 
