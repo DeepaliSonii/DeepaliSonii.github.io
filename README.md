@@ -7,6 +7,9 @@
 |Project name | Git Url | web preview|Project discription|
 |To-do List(tkinter)|[GIt repo](https://github.com/DeepaliSonii/To-do-List-tkinter-) | [web preview To-do List(tkinter) ](https://github.com/DeepaliSonii/To-do-List-tkinter-) |This Python project is designed to helps users manage their tasks by adding, removing, marking as done, saving, and loading tasks. This provides a simple and efficient way to track daily activities or goals.|
 
+## GUI Interface of To-do List
+
+![Interface](https://github.com/user-attachments/assets/79588ce9-cd1a-413a-a615-1c6495f680a5)
 
 
 
@@ -17,7 +20,8 @@
 |SimpleGuiCalculator|[GIt repo](https://github.com/DeepaliSonii/SimpleGuiCalculator) | [web preview SimpleGuiCalculator ](https://github.com/DeepaliSonii/SimpleGuiCalculator) |Simple, user-friendly calculator application with an appealing and functional graphical user interface (GUI).|
 
 ## GUI Interface of calculator
-![Interface2](https://github.com/user-attachments/assets/178eaf78-3721-4570-89ad-6969ffb5edcf)
+
+![Interface1](https://github.com/user-attachments/assets/d631288c-4e04-424c-8a81-e6b9b80ede32)
 
 
 
