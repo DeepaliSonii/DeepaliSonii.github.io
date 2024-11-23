@@ -11,21 +11,21 @@
 
 ## Project 2
 
-|---|---|---|
-|Project name | Git Url | web preview|
-|SimpleGuiCalculator|[GIt repo](https://github.com/DeepaliSonii/SimpleGuiCalculator) | [web preview SimpleGuiCalculator ](https://github.com/DeepaliSonii/SimpleGuiCalculator) |
+|---|---|---|---|
+|Project name | Git Url | web preview|Project discription|
+|SimpleGuiCalculator|[GIt repo](https://github.com/DeepaliSonii/SimpleGuiCalculator) | [web preview SimpleGuiCalculator ](https://github.com/DeepaliSonii/SimpleGuiCalculator) |Simple, user-friendly calculator application with an appealing and functional graphical user interface (GUI).|
 
 
 ## Project 3
 
-|---|---|---|
-|Project name | Git Url | web preview|
-|Expensetracker(Pandas)|[GIt repo](https://github.com/DeepaliSonii/Expensetracker) | [web preview Expensetracker(Pandas) ](https://github.com/DeepaliSonii/Expensetracker) |
+|---|---|---|---|
+|Project name | Git Url | web preview|Project discription|
+|Expensetracker(Pandas)|[GIt repo](https://github.com/DeepaliSonii/Expensetracker) | [web preview Expensetracker(Pandas) ](https://github.com/DeepaliSonii/Expensetracker) |This  project built in Python for managing and tracking personal expenses.Allows users to categorize, add, and save their expenses, as well as view an expense report.|
 
 
-## Project 3
+## Project 4
 
-|---|---|---|
-|Project name | Git Url | web preview|
-|Randompasswordgenerator|[GIt repo](https://github.com/DeepaliSonii/randompasswordgenerator.git) | [web preview randompasswordgenerator](https://github.com/DeepaliSonii/randompasswordgenerator) |
+|---|---|---|---|
+|Project name | Git Url | web preview|Project discription|
+|Randompasswordgenerator|[GIt repo](https://github.com/DeepaliSonii/randompasswordgenerator.git) | [web preview randompasswordgenerator](https://github.com/DeepaliSonii/randompasswordgenerator) |Random Password Generator written in Python.Generates a secure password based on user-defined criteria.Allows customization of the number of lowercase letters, uppercase letters, digits, and symbols in the password.The password is randomized and shuffled to ensure complexity and security.|
 
