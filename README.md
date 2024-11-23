@@ -15,7 +15,8 @@
 |---|---|---|---|
 |Project name | Git Url | web preview|Project discription|
 |SimpleGuiCalculator|[GIt repo](https://github.com/DeepaliSonii/SimpleGuiCalculator) | [web preview SimpleGuiCalculator ](https://github.com/DeepaliSonii/SimpleGuiCalculator) |Simple, user-friendly calculator application with an appealing and functional graphical user interface (GUI).|
-![Calculator Interface](Interface1.png)
+## GUI Interface of calculator
+![Calculator Interface](Interface.png)
 
 ## Project 3
 
