@@ -2,9 +2,10 @@
 
 ## Project 1
 
-|---|---|---|
-|Project name | Git Url | web preview|
-|To-do List(tkinter)|[GIt repo](https://github.com/DeepaliSonii/To-do-List-tkinter-) | [web preview To-do List(tkinter) ](https://github.com/DeepaliSonii/To-do-List-tkinter-) |
+
+|---|---|---|---|
+|Project name | Git Url | web preview|Project discription|
+|To-do List(tkinter)|[GIt repo](https://github.com/DeepaliSonii/To-do-List-tkinter-) | [web preview To-do List(tkinter) ](https://github.com/DeepaliSonii/To-do-List-tkinter-) |This Python project is designed to helps users manage their tasks by adding, removing, marking as done, saving, and loading tasks. This provides a simple and efficient way to track daily activities or goals.|
 
 
 
